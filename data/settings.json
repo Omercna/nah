@@ -1,0 +1,8 @@
+{
+  "token": "token buraya",
+  "client": " bot client",
+  "tag": "+",
+  "case": "false",
+  "separator": "\\s+",
+  "ownerId": "kendi id niz"
+}
